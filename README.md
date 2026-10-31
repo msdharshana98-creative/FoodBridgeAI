@@ -1,6 +1,6 @@
-#🍱 FoodBridgeAI
+#**🍱 FoodBridgeAI**
 
-AI-Powered Food Donation and Redistribution Platform
+###AI-Powered Food Donation and Redistribution Platform
 
 📌 About the Project
 
